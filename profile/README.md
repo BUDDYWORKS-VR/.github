@@ -4,3 +4,7 @@
 Everyone is happily invited to join in, every skill level, even just slight curiosity.  
   
 Maybe you find the spark. ❤️
+
+Homepage: https://buddyworks.wtf  
+VPM Listing: https://repo.buddyworks.wtf  
+Documentation: https://docs.buddyworks.wtf  
